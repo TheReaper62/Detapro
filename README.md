@@ -28,4 +28,4 @@ Interested in contributing? Check out the contributing guidelines. Please note t
 
 ## License
 
-`detapro` was created by TheReaper62. It is licensed under the terms of the MIT license.
+`detapro` was created by TheReaper62. It is licensed under the terms of the GPL3 license.

@@ -56,6 +56,7 @@ Ready to contribute? Here's how to set up `detapro` for local development.
     ```
 
 4. When you're done making changes, check that your changes conform to any code formatting requirements and pass any tests.
+Max Char/Line Count: `100`
 
 5. Commit your changes and open a pull request.
 
